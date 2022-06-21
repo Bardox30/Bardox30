@@ -1,6 +1,6 @@
 <html>
   <head>
-    <meta charset="uft--8">
+    <meta charset="UTF-8">
     <title>Bienvenido a Crece Tu Web!</title>
   </head>
   <body>
